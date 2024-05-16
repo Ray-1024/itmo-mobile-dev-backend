@@ -3,6 +3,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/activityemulator" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/activityemulator" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
         <option name="modules">
           <set>
@@ -22,7 +30,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/logs" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/logs" />
+            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/logs" />
           </set>
         </option>
       </GradleProjectSettings>
