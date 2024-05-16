@@ -30,7 +30,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/home" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/home" />
+            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/home" />
           </set>
         </option>
       </GradleProjectSettings>
