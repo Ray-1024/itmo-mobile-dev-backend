@@ -3,6 +3,9 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/common" />
+    <file type="web" url="file://$PROJECT_DIR$/mobileapp" />
+    <file type="web" url="file://$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/common" />
+    <file type="web" url="file://$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/mobileapp" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

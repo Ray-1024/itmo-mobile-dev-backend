@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
+    <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/common" vcs="Git" />
+    <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/mobileapp" vcs="Git" />
   </component>
 </project>
