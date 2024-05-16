@@ -14,7 +14,15 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/data" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/data" />
+            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/data" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/logs" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/logs" />
           </set>
         </option>
       </GradleProjectSettings>
