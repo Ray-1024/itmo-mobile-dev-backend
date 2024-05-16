@@ -6,7 +6,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/activityemulator" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/activityemulator" />
+            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/activityemulator" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -23,6 +23,14 @@
         <option name="modules">
           <set>
             <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/data" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/home" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/home" />
           </set>
         </option>
       </GradleProjectSettings>

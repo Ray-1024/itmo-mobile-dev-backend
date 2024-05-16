@@ -2,10 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/activityemulator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/home" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mobileapp" vcs="Git" />
+    <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/activityemulator" vcs="Git" />
     <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/common" vcs="Git" />
     <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/data" vcs="Git" />
     <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/logs" vcs="Git" />
