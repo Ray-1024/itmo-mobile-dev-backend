@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/activityemulator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/home" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mobileapp" vcs="Git" />
     <mapping directory="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/activityemulator" vcs="Git" />
