@@ -7,7 +7,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/activityemulator" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/activityemulator" />
+            <option value="$PROJECT_DIR$/activityemulator" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -15,7 +15,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/common" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/common" />
+            <option value="$PROJECT_DIR$/common" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -23,7 +23,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/data" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/data" />
+            <option value="$PROJECT_DIR$/data" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -31,7 +31,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/home" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/home" />
+            <option value="$PROJECT_DIR$/home" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -39,7 +39,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/logs" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/logs" />
+            <option value="$PROJECT_DIR$/logs" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -47,7 +47,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/mobileapp" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Yandex.Disk/Documents/itmo/mobile-development/project/smarthome/mobileapp" />
+            <option value="$PROJECT_DIR$/mobileapp" />
           </set>
         </option>
       </GradleProjectSettings>
